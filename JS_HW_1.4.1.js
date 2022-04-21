@@ -1,4 +1,5 @@
 gage = prompt('Ваш возраст?', []);
+// добавляем изменение для гита
 function verification(age) {
     let age_2 = 18
     let age_3 = 60
