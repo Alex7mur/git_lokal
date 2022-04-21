@@ -1,4 +1,4 @@
-age = prompt('Ваш возраст?', []);
+gage = prompt('Ваш возраст?', []);
 function verification(age) {
     let age_2 = 18
     let age_3 = 60
